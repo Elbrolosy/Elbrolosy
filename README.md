@@ -1,9 +1,8 @@
-### Hi there 👋
+### Hello World 👋, I'm Omar Elbrolosy
 
-<!--
-**Elbrolosy/Elbrolosy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineer seeking for technical challenges and innovative solutions.
+No matter what tools, where to deploy, no which platform, just let me challenge it, architect it and code it.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +12,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
